@@ -33,6 +33,7 @@ export function EntryCard({
       style={{
         width: width,
         height: width,
+        backgroundColor: "red",
       }}
       resizeMode="cover"
       width={width}
